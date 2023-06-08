@@ -147,7 +147,7 @@ Elementos a mejorar:
 
 ## 7. Proyecto
 
-[Link a nuestro GitHub Pages]()
+[Link a nuestro GitHub Pages](https://esthefaniagv.github.io/DEV008-data-lovers/)
 ## 9. Checklist
 
 * [x] Usa VanillaJS.
